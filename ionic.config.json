@@ -1,5 +1,7 @@
 {
   "name": "starWarsApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
